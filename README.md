@@ -1,3 +1,3 @@
-# Dockerized_Flask_App
+# Dockerized Flask App
 
 Created to practise containerization with docker.
